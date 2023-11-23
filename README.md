@@ -1,6 +1,6 @@
 # Credit_Card
-Javascript Credit Card validation checker
-,This WebSite takes in input Credit Card number and check if it's valid.
+Javascript Credit Card validation checker, 
+This WebSite takes in input Credit Card number and check if it's valid.
 ## Validation Scheme Based on Credit Cards:
 * American Express :- Starting with 34 or 37, length 15 digits.
 * Visa :- Starting with 4, length 13 or 16 digits.
